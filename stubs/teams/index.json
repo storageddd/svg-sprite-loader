@@ -1,0 +1,20 @@
+{
+  "incoming": 300,
+  "cost": 600,
+  "list": [
+    {
+      "id": "A",
+      "incoming": 650,
+      "organizer": "Степан Силеверюк",
+      "is_own_user": false,
+      "participants_count": 19
+    },
+    {
+      "id": "B",
+      "incoming": 300,
+      "organizer": "Андрей Иванов",
+      "is_own_user": true,
+      "participants_count": 10
+    }
+  ]
+}

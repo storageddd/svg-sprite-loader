@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Семен Меняйло",
+    "is_agent": true,
+    "franchisees": 100,
+    "royalty": 10
+  },
+  {
+    "name": "Марфа Андреевна",
+    "is_agent": false,
+    "franchisees": 0,
+    "royalty": 0
+  },
+  {
+    "name": "Артур Маманян",
+    "is_agent": true,
+    "franchisees": 90,
+    "royalty": 7
+  },
+  {
+    "name": "Семен Меняйло",
+    "is_agent": true,
+    "franchisees": 100,
+    "royalty": 10
+  },
+  {
+    "name": "Семен Меняйло",
+    "is_agent": true,
+    "franchisees": 100,
+    "royalty": 10
+  },
+  {
+    "name": "Семен Меняйло",
+    "is_agent": true,
+    "franchisees": 100,
+    "royalty": 10
+  },
+  {
+    "name": "Семен Меняйло",
+    "is_agent": true,
+    "franchisees": 100,
+    "royalty": 10
+  },
+  {
+    "name": "Семен Меняйло",
+    "is_agent": true,
+    "franchisees": 100,
+    "royalty": 10
+  },
+  {
+    "name": "Семен Меняйло",
+    "is_agent": true,
+    "franchisees": 100,
+    "royalty": 10
+  },
+  {
+    "name": "Семен Меняйло",
+    "is_agent": true,
+    "franchisees": 100,
+    "royalty": 10
+  },
+  {
+    "name": "Семен Меняйло",
+    "is_agent": true,
+    "franchisees": 100,
+    "royalty": 10
+  }
+]
